@@ -1,2 +1,2 @@
-# MiSide_Multiplayer
-MiSide Multiplayer Launcher.
+# MiSide Multiplayer
+MiSide Multiplayer Launcher written in C++.
